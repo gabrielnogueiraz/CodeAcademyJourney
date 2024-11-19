@@ -15,7 +15,7 @@ Este repositório foi criado para:
 ## 📂 Estrutura do Repositório
 Os exercícios estão organizados por linguagens de programação que aprendo na faculdade. Abaixo está a estrutura geral:
 
-📁 Exercicios-Faculdade ├── 📂 Python │ ├── products_list.py │ ├── barco.py│ Assembly │ ├── challenge.asm  └── README.md ├── 📂 
+📁 Exercicios-Faculdade ├── 📂 Python │ ├── products_list.py │ ├── barcodes.py│ ├── passwordGenerator.py │ Assembly │ ├── challenge.asm  └── README.md ├── 📂 
 
 Cada pasta contém:
 - **Código-fonte** dos exercícios.
