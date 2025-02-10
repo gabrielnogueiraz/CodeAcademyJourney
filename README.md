@@ -31,4 +31,4 @@ Até o presente momento os exercícios são desenvolvidos utilizando as seguinte
 ## 🔥 **Como Utilizar**
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/gabrielnogueiraz/CodeAcademyJourney.git
